@@ -2,7 +2,7 @@ public class Azechi{
     public string name;
     public int age;
     public Azechi(){
-        name = "畦地さん";
+        name = "監査 畦地さん";
         age = 21;
     }
 }
