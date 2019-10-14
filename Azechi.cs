@@ -3,6 +3,6 @@ public class Azechi{
     public int age;
     public Azechi(){
         name = "監査 畦地さん";
-        age = 21;
+        age = 10;
     }
 }
